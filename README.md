@@ -70,7 +70,7 @@ Sales-Revenue-Analysis-Dashboard
 
 📊 Dashboard Preview
 
->"C:\Users\Sammed2005\Desktop\Sales_Revenue_Dashboard\Report\Screenshot 2026-07-08 120027.png"
+>"![Sales Dashboard](Report/Dashboard_Screenshot.png)
 
 
 📈 Key Performance Indicators (KPIs)
