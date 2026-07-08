@@ -45,6 +45,7 @@ The project includes:
 
 📂 Project Structure
 
+```text
 Sales-Revenue-Analysis-Dashboard
 │
 ├── Data
@@ -62,6 +63,7 @@ Sales-Revenue-Analysis-Dashboard
 │   └── Business_Insights.pdf
 │
 └── README.md
+```
 
 
 
