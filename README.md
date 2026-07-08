@@ -70,7 +70,7 @@ Sales-Revenue-Analysis-Dashboard
 
 📊 Dashboard Preview
 
->"![Sales Dashboard](Report/Dashboard_Screenshot.png)
+>![Sales Dashboard](Report/Dashboard_Screenshot.png)
 
 
 📈 Key Performance Indicators (KPIs)
